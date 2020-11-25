@@ -10,6 +10,6 @@ I have just begun searching for full time software engineering opportunities for
 ## Check Out Some Of My Work
 
 [![pin1](https://github-readme-stats.vercel.app/api/pin/?username=ryanalbertson&repo=Algorithm_Visualizer)](https://github.com/ryanalbertson/Algorithm_Visualizer)
-[![pin2](https://github-readme-stats.vercel.app/api/pin/?username=ryanalbertson&repo=COS226_Princeton_University)](https://github.com/ryanalbertson/COS226_Princeton_University)
-[![pin3](https://github-readme-stats.vercel.app/api/pin/?username=ryanalbertson&repo=Ordinary_Least_Squares_Regression)](https://github.com/ryanalbertson/Ordinary_Least_Squares_Regression)
+[![pin2](https://github-readme-stats.vercel.app/api/pin/?username=ryanalbertson&repo=Ordinary_Least_Squares_Regression)](https://github.com/ryanalbertson/Ordinary_Least_Squares_Regression)
+[![pin3](https://github-readme-stats.vercel.app/api/pin/?username=ryanalbertson&repo=COS226_Princeton_University)](https://github.com/ryanalbertson/COS226_Princeton_University)
 [![pin4](https://github-readme-stats.vercel.app/api/pin/?username=ryanalbertson&repo=Classifying_New_York_City_Subway_Stations)](https://github.com/ryanalbertson/Classifying_New_York_City_Subway_Stations)
